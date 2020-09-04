@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+functional
+-
+random
+-
+
+C:/Users/Veronika/Downloads/monte-carlo-overbooking-interestIngc-master/monte-carlo-overbooking-interestIngc/src/main.cpp
+utils.h
+C:/Users/Veronika/Downloads/monte-carlo-overbooking-interestIngc-master/monte-carlo-overbooking-interestIngc/src/utils.h
+iostream
+-
+
+C:/Users/Veronika/Downloads/monte-carlo-overbooking-interestIngc-master/monte-carlo-overbooking-interestIngc/src/utils.cpp
+utils.h
+C:/Users/Veronika/Downloads/monte-carlo-overbooking-interestIngc-master/monte-carlo-overbooking-interestIngc/src/utils.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+
